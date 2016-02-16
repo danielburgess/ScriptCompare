@@ -1,0 +1,12 @@
+//This file defines the tile widths for the first 80 tiles (because this is all the English font "needs")
+//each tile occupies 16x16 pixels, but the game squishes the font when it is displayed
+12,12,12,12,12,12,12,12
+06,12,12,12,14,12,12,12
+12,12,12,14,12,14,14,14
+14,12,08,12,06,12,12,08
+12,12,12,12,12,12,12,12
+12,12,12,12,12,12,12,12
+06,10,12,06,14,12,12,12
+12,10,11,12,12,14,14,14
+14,12,14,12,12,09,14,06
+13,08,08,08,16,10,14,14
